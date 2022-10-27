@@ -31,7 +31,7 @@ namespace LAB3
             }
             else
             {
-                MessageBox.Show("Привет " + userName);
+                MessageBox.Show("Привет  " + userName);
             }
         }
     }
